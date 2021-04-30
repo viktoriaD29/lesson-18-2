@@ -1,8 +1,8 @@
 .button {
   margin: 64px;
-  width: 250px;
+  width: 200px;
   height: 50px;
-  line-height: 25px;
+  line-height: 50px;
   color: white;
   background-color: coral;
   border-radius: 4px;
